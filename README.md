@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in leaning new things
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on all kind of things
+- 📫 How to reach me gbrielblegno@gmail.com
